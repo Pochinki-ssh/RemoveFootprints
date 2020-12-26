@@ -11,7 +11,7 @@ RemoveFootprints allows you to remove all your tracks from your PC (most of them
 
 In order to run the Batchfile (.bat) simply follow the below steps:
 
-1. Download the file
+1. Download the file.
 
 2. Right click > "Run as Administrator". (Yes, it requires Adminitrator rights to Start/Stop services)
 
